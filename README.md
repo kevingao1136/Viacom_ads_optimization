@@ -27,8 +27,9 @@ The outcome of this project is:
 
 Below is a screenshot of the Tableau Dashboard created. The Page Metrics on top can be filtered by clusters: I conducted K-Means clustering to cluster all 444 pages into 4 clusters, here are the characteristics of each cluster:
 
-Cluster0: Low impressions and low clicks
-Cluster1: Medium impressions and high clicks
-Cluster2: High impressions and 0 clicks
-Cluster3: Medium impressions and medium clicks
+- Cluster0: Low impressions and low clicks
+- Cluster1: Medium impressions and high clicks
+- Cluster2: High impressions and 0 clicks
+- Cluster3: Medium impressions and medium clicks
+
 ![](https://github.com/kevingao1136/Viacom_ads_optimization/blob/master/tableau_data/Dashboard.png)
